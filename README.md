@@ -3,7 +3,7 @@ A curated list of awesome mini web games.
 
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/skatiyar/awesome-mini-games/)
 
-> Inspiration: TODO
+> Inspiration: While browsing Hacker News, I came across `Reach 100` game, lo and behold night turned to morning trying to solve the puzzel. This motivated me to find more mini web games and this repo aims to be a directory for such games.
 
 ## Contents
 
