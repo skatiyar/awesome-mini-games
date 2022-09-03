@@ -15,6 +15,7 @@ A curated list of awesome mini web games.
 
 ## Puzzels
 
-- [Reach 100](https://reach-100.com)
-- [Eight Colors](https://eightcolors.net)
 - [0hh1](https://0hh1.com)
+- [2048](https://play2048.co/)
+- [Eight Colors](https://eightcolors.net)
+- [Reach 100](https://reach-100.com)
