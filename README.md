@@ -19,3 +19,4 @@ A curated list of awesome mini web games.
 - [2048](https://play2048.co/)
 - [Eight Colors](https://eightcolors.net)
 - [Reach 100](https://reach-100.com)
+- [2048 Deluxe](https://2048deluxe.com/) A feature-rich deluxe version of 2048 with multiple modes, themes, and enhanced gameplay.
