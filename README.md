@@ -18,4 +18,5 @@ A curated list of awesome mini web games.
 - [0hh1](https://0hh1.com)
 - [2048](https://play2048.co/)
 - [Eight Colors](https://eightcolors.net)
+- [JigsawPop](https://jigsawpop.com/)
 - [Reach 100](https://reach-100.com)
